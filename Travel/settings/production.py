@@ -173,5 +173,5 @@ LOGGING = {
         },
     }
 }
-STATIC_ROOT = BASE_DIR.joinpath('staticfiles')
+STATIC_ROOT = BASE_DIR.joinpath('staticfiles')    # Добавил статику
 
